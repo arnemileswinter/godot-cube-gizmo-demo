@@ -41,4 +41,4 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ---
 
-Enjoy using the ExampleCube Gizmo Plugin in your Godot 4.1 projects! This project serves as an example of how to create and utilize Gizmo Plugins in Godot. If you have any questions or encounter any issues, please feel free to [open an issue](https://github.com/your-repo-link/issues) on GitHub.
+Enjoy using the ExampleCube Gizmo Plugin in your Godot 4.1 projects! This project serves as an example of how to create and utilize Gizmo Plugins in Godot. If you have any questions or encounter any issues, please feel free to [open an issue](https://github.com/arnemileswinter/godot-cube-gizmo-demo/issues) on GitHub.
