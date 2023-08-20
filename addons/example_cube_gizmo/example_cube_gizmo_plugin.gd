@@ -78,5 +78,5 @@ func _set_handle(gizmo: EditorNode3DGizmo, handle_id: int, secondary: bool, came
 		0: n.extents.x = drag_to.x
 		1: n.extents.y = drag_to.y
 		2: n.extents.z = drag_to.z
-	_redraw(gizmo) # see https://github.com/godotengine/godot/issues/71979
+	n.update_gizmos()
 	
